@@ -36,9 +36,7 @@
 
 <h2>⚙️ Installation</h2>
 <ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/ModuleChatFrontend.git</code></pre>
-  </li>
+
   <li>Navigate to the project directory:
     <pre><code>cd ModuleChatFrontend</code></pre>
   </li>
