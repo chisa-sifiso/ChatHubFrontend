@@ -75,7 +75,7 @@
 
 <h2>👨‍💻 Contributors</h2>
 <ul>
-  <li><strong>Your Name:</strong> Frontend Development</li>
+  <li><strong>Sifiso Vinjwa</strong> Frontend Development</li>
 </ul>
 
 <h2>📄 License</h2>
